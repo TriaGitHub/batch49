@@ -1,5 +1,6 @@
 public class Calculator {
     public static void main(String[] args) {
+        System.out.println("Just print Triaal");
 
         System.out.println("Sum is :"+sum(2,3));
 
