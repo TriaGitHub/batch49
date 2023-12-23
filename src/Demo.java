@@ -140,5 +140,6 @@ String s ="David";
         String s4 = "This is a Java Class";
         String[] splitArray = s4.split(" ");
         System.out.println(Arrays.toString(splitArray));
+         System.out.println(Arrays.toString(splitArray));
     }
 }
