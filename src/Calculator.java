@@ -12,6 +12,7 @@ public class Calculator {
 
         int di = divide(10, 5);
         System.out.println("Divide is :" + di);
+        System.out.println("Divide is :" + di);
     }
 
     public static int sum(int a, int b) {
